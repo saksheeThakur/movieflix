@@ -1,2 +1,6 @@
-# movieflix
-netflix clone
+module.exports = {
+  plugins: {
+    tailwindcss: {},
+    autoprefixer: {},
+  },
+}
